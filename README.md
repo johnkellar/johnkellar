@@ -1,16 +1,48 @@
-### Hi there 👋
+## John Kellar
 
-<!--
-**johnkellar/johnkellar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src="https://img.shields.io/badge/LinkedIn-Connect-blue.svg?logo=LinkedIn">][linkedin]
 
-Here are some ideas to get you started:
+## Previous Titles 
+CEO | COO | CTO | Founder | Executive Director | VP Engineering | VP Solution Delivery | Director Enterprise Solutions | Solution Architect | Senior Enterprise Architect
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Industry Experience 
+Healthcare | Wellness | Real Estate | Financial | Manufacturing | Government
+Activity
+
+## Awards 
+
+- Recognized as a Microsoft MVP for Client Application Development (2011-2012)
+- Recognized as a Microsoft MVP for Visual C# (2007 - 2010)
+
+
+### Languages and Tools:
+
+[<img align="left" alt="AWS" width="32px" style="padding: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />][linkedin]
+
+[<img align="left" alt="C#" width="32px" style="padding: 5px;" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/csharp/csharp.png" />][linkedin]
+
+[<img align="left" alt="Ruby on Rails" width="32px" style="padding: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />][linkedin]
+
+[<img align="left" alt="HTML5" width="32px" style="padding: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][linkedin]
+
+[<img align="left" alt="CSS3" width="32px" style="padding: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][linkedin]
+
+[<img align="left" alt="JavaScript" width="32px" style="padding: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][linkedin]
+
+[<img align="left" alt="React" width="32px" style="padding: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][linkedin]
+
+[<img align="left" alt="Node.js" width="32px" style="padding: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][linkedin]
+
+[<img align="left" alt="SQL" width="32px" style="padding: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][linkedin]
+
+[<img align="left" alt="MySQL" width="32px" style="padding: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][linkedin]
+
+[<img align="left" alt="MongoDB" width="32px" style="padding: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][linkedin]
+
+[<img align="left" alt="Git" width="32px" style="padding: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][linkedin]
+
+[<img align="left" alt="GitHub" width="32px" style="padding: 5px;" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][linkedin]
+
+
+[website]: https://anvilsystems.com
+[linkedin]: https://linkedin.com/in/johnkellar
