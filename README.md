@@ -43,6 +43,7 @@ CEO | COO | CTO | Founder | Executive Director | VP Engineering | VP Solution De
 
 [<img align="left" alt="GitHub" width="32px" style="padding: 5px;" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][linkedin]
 
+[![Website](https://img.shields.io/website?label=johnkellar.com&style=for-the-badge&url=https%3A%2F%2Fjohnkellar.com)](https://johnkellar.com)
 
 [website]: https://anvilsystems.com
 [linkedin]: https://linkedin.com/in/johnkellar
