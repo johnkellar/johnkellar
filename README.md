@@ -2,12 +2,12 @@
 
 [<img src="https://img.shields.io/badge/LinkedIn-Connect-blue.svg?logo=LinkedIn">][linkedin]
 
-## Previous Titles 
-CEO | COO | CTO | Founder | Executive Director | VP Engineering | VP Solution Delivery | Director Enterprise Solutions | Solution Architect | Senior Enterprise Architect
-
 ## Industry Experience 
 Healthcare | Wellness | Real Estate | Financial | Manufacturing | Government
 Activity
+
+## Previous Titles 
+CEO | COO | CTO | Founder | Executive Director | VP Engineering | VP Solution Delivery | Director Enterprise Solutions | Solution Architect | Senior Enterprise Architect
 
 ## Awards 
 
