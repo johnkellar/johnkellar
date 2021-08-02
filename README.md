@@ -4,7 +4,6 @@
 
 ## Industry Experience 
 Healthcare | Wellness | Real Estate | Financial | Manufacturing | Government
-Activity
 
 ## Previous Titles 
 CEO | COO | CTO | Founder | Executive Director | VP Engineering | VP Solution Delivery | Director Enterprise Solutions | Solution Architect | Senior Enterprise Architect
